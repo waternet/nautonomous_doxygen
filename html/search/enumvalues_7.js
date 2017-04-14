@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['parity_5feven',['parity_even',['../namespaceserial.html#a8f45d26bf7c9a06659e75b5004a50481abe15d241d407528bc8a199b02301ed46',1,'serial']]],
+  ['parity_5fmark',['parity_mark',['../namespaceserial.html#a8f45d26bf7c9a06659e75b5004a50481a6d7af531414706617a23fe1926ad7ac6',1,'serial']]],
+  ['parity_5fnone',['parity_none',['../namespaceserial.html#a8f45d26bf7c9a06659e75b5004a50481a31cbb2b3cf0870d1a089d66295918416',1,'serial']]],
+  ['parity_5fodd',['parity_odd',['../namespaceserial.html#a8f45d26bf7c9a06659e75b5004a50481affd8fd58edf7c25bab458cafaebecb10',1,'serial']]],
+  ['parity_5fspace',['parity_space',['../namespaceserial.html#a8f45d26bf7c9a06659e75b5004a50481a94681358f3d53873698fdc98d6890cef',1,'serial']]],
+  ['pin_5focd_5fmask',['PIN_OCD_MASK',['../structublox__msgs_1_1_cfg_a_n_t__.html#af36b022cc225de5023566d590f98ea0eae938e284d3e7f53c68b0729cdbd9e71a',1,'ublox_msgs::CfgANT_']]],
+  ['pin_5freconfig',['PIN_RECONFIG',['../structublox__msgs_1_1_cfg_a_n_t__.html#aefac2123d00e899bbdd343bc562118c3ad9a16b760600161413b0a8b4fe8d3066',1,'ublox_msgs::CfgANT_']]],
+  ['pin_5fscd_5fmask',['PIN_SCD_MASK',['../structublox__msgs_1_1_cfg_a_n_t__.html#a661fdd06d6cdcf6d58d46f975956f6ccadd43a8b3c40e5435d9bd9290936631a3',1,'ublox_msgs::CfgANT_']]],
+  ['pin_5fswitch_5fmask',['PIN_SWITCH_MASK',['../structublox__msgs_1_1_cfg_a_n_t__.html#af4ac9141d756811f17fba5b2c244d238aa55b2f0b26507b0bd09a847642fd6b5f',1,'ublox_msgs::CfgANT_']]],
+  ['port_5fid_5fuart1',['PORT_ID_UART1',['../structublox__msgs_1_1_cfg_p_r_t__.html#a81578f5c25fc980975342786eaa4ce06a4803f6b2eafac5952afd560c0f333d00',1,'ublox_msgs::CfgPRT_']]],
+  ['port_5fid_5fuart2',['PORT_ID_UART2',['../structublox__msgs_1_1_cfg_p_r_t__.html#abc8c5802e6d03abaffc0f5e3a3a01e77af71c5f98a141f8900a61cf6f21fa2057',1,'ublox_msgs::CfgPRT_']]],
+  ['port_5fid_5fusb',['PORT_ID_USB',['../structublox__msgs_1_1_cfg_p_r_t__.html#a04636690bbd4aef1707d70fa27505159a34f0a37503a923339951cb2883b87f8f',1,'ublox_msgs::CfgPRT_']]],
+  ['proto_5fnmea',['PROTO_NMEA',['../structublox__msgs_1_1_cfg_p_r_t__.html#a6461ce7f45bc4836f695bd66ab6ae820a61bcdb609c8aa924c180f58960df1c95',1,'ublox_msgs::CfgPRT_']]],
+  ['proto_5frtcm',['PROTO_RTCM',['../structublox__msgs_1_1_cfg_p_r_t__.html#aea6f14bf7bb393842710b60783ac2be7a2e2337dccd1fff2152119bbc7dde5c58',1,'ublox_msgs::CfgPRT_']]],
+  ['proto_5fubx',['PROTO_UBX',['../structublox__msgs_1_1_cfg_p_r_t__.html#a45a1a2aa321f51c60eb1acc413a02ec5a43192da6dda484e7af9694fb070e0657',1,'ublox_msgs::CfgPRT_']]],
+  ['psmstate_5facquisition',['PSMSTATE_ACQUISITION',['../structublox__msgs_1_1_nav_s_t_a_t_u_s__.html#a58a587a6f9624733dcbd4ebfd641b177af1ccf8505b4164dfde14fc43d7dcdc78',1,'ublox_msgs::NavSTATUS_']]],
+  ['psmstate_5finactive',['PSMSTATE_INACTIVE',['../structublox__msgs_1_1_nav_s_t_a_t_u_s__.html#a50c5b634d95d2c7106465dd9df09def9a018810f5c0b0a77aabb719de4e2a0314',1,'ublox_msgs::NavSTATUS_']]],
+  ['psmstate_5fpower_5foptimized_5ftracking',['PSMSTATE_POWER_OPTIMIZED_TRACKING',['../structublox__msgs_1_1_nav_s_t_a_t_u_s__.html#ae93be50299386f62c11ef1ce688afbc6adcde5ea66f2a4fda17eb480449a8a2dc',1,'ublox_msgs::NavSTATUS_']]],
+  ['psmstate_5ftracking',['PSMSTATE_TRACKING',['../structublox__msgs_1_1_nav_s_t_a_t_u_s__.html#a7a2ec6bce7d604d6d93dac1c117311e5ae6fcf0f03c7a6c4285acb0b9ef624b75',1,'ublox_msgs::NavSTATUS_']]]
+];
