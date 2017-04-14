@@ -1,12 +1,13 @@
 <map id="/home/jesse/ROS/Nautonomous/WaternetNautonomous/src" name="/home/jesse/ROS/Nautonomous/WaternetNautonomous/src">
-<area shape="rect" id="node2" href="dir_dba2d39e22d7becfe809f677996c08e9.html" title="nautonomous_actuation_selector" alt="" coords="1784,63,1997,111"/>
-<area shape="rect" id="node3" href="dir_0b18f9f72da937fe1b90d3062fffbc38.html" title="nautonomous_actuation_simulator" alt="" coords="1539,63,1759,111"/>
-<area shape="rect" id="node4" href="dir_1898f517ff4af8c754f7bdcb4420e1d7.html" title="nautonomous_actuation_synchronizer" alt="" coords="1274,63,1515,111"/>
-<area shape="rect" id="node5" href="dir_92f964488952d0f7b300f131236073ee.html" title="nautonomous_gps_ublox" alt="" coords="1083,63,1250,111"/>
-<area shape="rect" id="node6" href="dir_36aaff1671f36e103a216f80f15b64c2.html" title="nautonomous_navigation_odometry" alt="" coords="832,63,1059,111"/>
-<area shape="rect" id="node7" href="dir_68dee4b919c4e753c057152726984ae8.html" title="nautonomous_navigation_transform" alt="" coords="579,63,807,111"/>
-<area shape="rect" id="node8" href="dir_aef21fd82946d17c9fa2cd5ec4ec5c4a.html" title="nautonomous_operation_action" alt="" coords="352,63,555,111"/>
-<area shape="rect" id="node9" href="dir_d075d0887cd09143ba617130638e28f1.html" title="nautonomous_serverconnection_logger_server" alt="" coords="37,63,328,111"/>
-<area shape="rect" id="clust2" href="dir_3efd617ac3e8f3797d1c2d52844bb805.html" alt="" coords="27,52,2104,121"/>
-<area shape="rect" id="clust1" href="dir_c282b9c28d5b8a56ab7d81a13e205303.html" title="WaternetNautonomous" alt="" coords="16,16,2115,132"/>
+<area shape="rect" id="node2" href="dir_dba2d39e22d7becfe809f677996c08e9.html" title="nautonomous_actuation_selector" alt="" coords="2039,63,2252,111"/>
+<area shape="rect" id="node3" href="dir_0b18f9f72da937fe1b90d3062fffbc38.html" title="nautonomous_actuation_simulator" alt="" coords="1794,63,2014,111"/>
+<area shape="rect" id="node4" href="dir_1898f517ff4af8c754f7bdcb4420e1d7.html" title="nautonomous_actuation_synchronizer" alt="" coords="1529,63,1770,111"/>
+<area shape="rect" id="node5" href="dir_92f964488952d0f7b300f131236073ee.html" title="nautonomous_gps_ublox" alt="" coords="1338,63,1505,111"/>
+<area shape="rect" id="node6" href="dir_36aaff1671f36e103a216f80f15b64c2.html" title="nautonomous_navigation_odometry" alt="" coords="1087,63,1313,111"/>
+<area shape="rect" id="node7" href="dir_f38f3412b597acc0c960bff93936deb2.html" title="nautonomous_navigation_pathfinder" alt="" coords="831,63,1062,111"/>
+<area shape="rect" id="node8" href="dir_68dee4b919c4e753c057152726984ae8.html" title="nautonomous_navigation_transform" alt="" coords="579,63,807,111"/>
+<area shape="rect" id="node9" href="dir_aef21fd82946d17c9fa2cd5ec4ec5c4a.html" title="nautonomous_operation_action" alt="" coords="352,63,555,111"/>
+<area shape="rect" id="node10" href="dir_d075d0887cd09143ba617130638e28f1.html" title="nautonomous_serverconnection_logger_server" alt="" coords="37,63,328,111"/>
+<area shape="rect" id="clust2" href="dir_3efd617ac3e8f3797d1c2d52844bb805.html" alt="" coords="27,52,2359,121"/>
+<area shape="rect" id="clust1" href="dir_c282b9c28d5b8a56ab7d81a13e205303.html" title="WaternetNautonomous" alt="" coords="16,16,2369,132"/>
 </map>

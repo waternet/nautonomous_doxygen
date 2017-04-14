@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['open',['open',['../classserial_1_1_serial.html#af3644ed1a9d899b70e9d63bb9b808d62',1,'serial::Serial::open()'],['../classserial_1_1serial_1_1_serial_1_1_serial_impl.html#a279801879f609e1845e3e730f5651aa2',1,'serial::serial::Serial::SerialImpl::open()'],['../classserial_1_1_serial.html#aba5b61f1c9baa6cc02952a6b0b4d3121',1,'serial::Serial::open()']]],
-  ['options',['Options',['../structublox_1_1_options.html#a498bde31338bb96cb8c2df97955288e3',1,'ublox::Options']]]
+  ['navigation_5fserver',['navigation_server',['../namespacenavigator.html#a1e4a7e885239d4d2fb4e1f882bcfc4fc',1,'navigator']]],
+  ['next',['next',['../classublox_1_1_reader.html#ad5c01d9975c05a61e36ce226b99de33c',1,'ublox::Reader']]]
 ];

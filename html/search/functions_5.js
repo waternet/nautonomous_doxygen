@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['fix_5fdiagnostic',['fix_diagnostic',['../node_8cpp.html#a1df82b4c8e6658145d427d3b83e530b0',1,'node.cpp']]],
-  ['fixmodefromstring',['fixModeFromString',['../namespaceublox__gps.html#a1cdba202cf72c0f1628fe69f2df8008b',1,'ublox_gps']]],
-  ['flush',['flush',['../classserial_1_1_serial.html#a63b7abf172cad25bfc998b3b1f98310f',1,'serial::Serial::flush()'],['../classserial_1_1serial_1_1_serial_1_1_serial_impl.html#afe873a403bcca3956437d95aa55c4d06',1,'serial::serial::Serial::SerialImpl::flush()'],['../classserial_1_1_serial.html#a45a7676a6e6c775cd549e889e714b5bb',1,'serial::Serial::flush()']]],
-  ['flushinput',['flushInput',['../classserial_1_1_serial.html#afa2c1f9114a37b7d140fc2292d1499b9',1,'serial::Serial::flushInput()'],['../classserial_1_1serial_1_1_serial_1_1_serial_impl.html#a0b4ef99a4b44c3ef153ec7c4802ff194',1,'serial::serial::Serial::SerialImpl::flushInput()'],['../classserial_1_1_serial.html#aa7432cbada95a7eac6d71a107cf2eaa3',1,'serial::Serial::flushInput()']]],
-  ['flushoutput',['flushOutput',['../classserial_1_1_serial.html#a256ee4bb93ab0e79d7a66b50f08dce53',1,'serial::Serial::flushOutput()'],['../classserial_1_1serial_1_1_serial_1_1_serial_impl.html#ac61932385ea2ce645192e1539349500b',1,'serial::serial::Serial::SerialImpl::flushOutput()'],['../classserial_1_1_serial.html#a95e0d6dcf2b7b9aa45225bfb1647c427',1,'serial::Serial::flushOutput()']]],
-  ['found',['found',['../classublox_1_1_reader.html#ad21a76ab9d8be8f3bf601e5fcc53353c',1,'ublox::Reader']]]
+  ['enablesbas',['enableSBAS',['../classublox__gps_1_1_gps.html#a310264d5160c6538d7652bad2c049d81',1,'ublox_gps::Gps']]],
+  ['end',['end',['../classublox_1_1_reader.html#a33d4543e307b4f1b1b0bbef5059e40c9',1,'ublox::Reader::end()'],['../classublox_1_1_writer.html#af9ccb577de6cd10f9bb08d96d0e5ee38',1,'ublox::Writer::end()']]],
+  ['euclideandistance',['euclideanDistance',['../namespaceastar_search.html#a3946b75b097f126acfeabaf6334b2223',1,'astarSearch']]],
+  ['executecb',['executeCB',['../class_mission_server.html#aae2f027f7d39b059da8a94c893bdefdb',1,'MissionServer']]]
 ];

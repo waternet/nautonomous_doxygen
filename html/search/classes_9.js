@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['reader',['Reader',['../classublox_1_1_reader.html',1,'ublox']]]
+  ['options',['Options',['../structublox_1_1_options.html',1,'ublox']]]
 ];

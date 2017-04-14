@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['serial',['serial',['../namespaceserial.html',1,'']]],
-  ['serial',['Serial',['../namespaceserial_1_1serial_1_1_serial.html',1,'serial::serial']]],
-  ['serial',['serial',['../namespaceserial_1_1serial.html',1,'serial']]]
+  ['connectionrequestshandler',['ConnectionRequestsHandler',['../namespace_connection_requests_handler.html',1,'']]],
+  ['crop',['crop',['../namespacecrop.html',1,'']]]
 ];

@@ -5,6 +5,7 @@ var searchData=
   ['nautonomous_20actuation_20simulator',['nautonomous actuation simulator',['../nautonomous_actuation_simulator.html',1,'']]],
   ['nautonomous_20actuation_20synchronizer',['nautonomous actuation synchronizer',['../nautonomous_actuation_synchronizer.html',1,'']]],
   ['nautonomous_20configuration',['nautonomous configuration',['../nautonomous_configuration.html',1,'']]],
+  ['nautonomous_20gps_20ublox',['nautonomous gps ublox',['../nautonomous_gps_ublox.html',1,'']]],
   ['nautonomous_20navigation_20odometry',['nautonomous navigation odometry',['../nautonomous_navigation_odometry.html',1,'']]],
   ['nautonomous_20navigation_20transform',['nautonomous navigation transform',['../nautonomous_navigation_transform.html',1,'']]],
   ['nautonomous_20operation_20action',['nautonomous operation action',['../nautonomous_operation_action.html',1,'']]],
